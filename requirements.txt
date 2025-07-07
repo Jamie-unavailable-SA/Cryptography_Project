@@ -1,0 +1,3 @@
+pycryptodome
+twilio
+tkinter; sys_platform == "win32"
